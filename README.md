@@ -4,7 +4,7 @@ I'm an aerospace engineer turned tech consultant, startup co-founder, and produc
 
 Currently building:
 
-- 🧠 [**The Big Moves**](https://thebigmoves.beehiiv.com) – A newsletter tracking major moves in the stock market by banks and funds.
+- 🧠 [**The Big Moves**](https://conclusive-ice-954785.framer.app/) – A newsletter tracking major moves in the stock market by banks and funds.
 - 📚 A microSaaS to **validate and showcase your knowledge of books**, like a “Duolingo for serious readers.”
 - 🎁 A loyalty app for physical businesses like **physiotherapy clinics, pharmacies, and cafés**, using digital cards and smart reward systems.
 
