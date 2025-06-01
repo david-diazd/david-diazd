@@ -21,6 +21,6 @@ Currently building:
 
 ### 📫 Let's connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/josedaviddiazdiaz/)
-- ✉️ david.diaz.diaz.yt@gmail.com  
+- ✉️ david204.dd@gmail.com  
 
 Always open to exchanging ideas, collaborating on side projects, or chatting about startups, markets, and book insights.
