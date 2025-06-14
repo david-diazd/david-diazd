@@ -14,6 +14,8 @@ Currently building:
 - No code: Make, Airtable, FlutterFlow, Bubble.
 - Beehiiv, MailChimp
 
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-diazd&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🚀 Current interests
 - MicroSaaS, B2B tools, automation, MVP testing  
 - Market analysis using AI and data science  
@@ -24,3 +26,4 @@ Currently building:
 - ✉️ david204.dd@gmail.com  
 
 Always open to exchanging ideas, collaborating on side projects, or chatting about startups, markets, and book insights.
+
