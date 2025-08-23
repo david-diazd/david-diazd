@@ -9,8 +9,8 @@ Currently building:
 - 👨🏻‍💻 [**Startup Canarias**](https://www.startupcanarias.org) - Startup community for Canary Island
 
 ### 🛠️ Tech I use
-- React, Next.js, Tailwind CSS, Firebase  
-- Python (Pandas, Jupyter)
+- React, Next.js, Vite, Typescript, Tailwind CSS, Supabase.  
+- Python (Pandas, Jupyter).
 - No code: Make, Airtable, FlutterFlow, Bubble.
 - Beehiiv, MailChimp
 
