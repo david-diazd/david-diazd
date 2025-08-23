@@ -6,7 +6,7 @@ Currently building:
 
 - 🧠 [**The Big Moves**](https://conclusive-ice-954785.framer.app/) – A newsletter tracking major moves in the stock market by banks and funds.
 - 📚 [**Once A Day**](https://www.linkedin.com/company/once-a-day-app) - A mobile app that improves read habits.
-- 🎁 A loyalty app for physical businesses like **physiotherapy clinics, pharmacies, and cafés**, using digital cards and smart reward systems.
+- 👨🏻‍💻 [**Startup Canarias**](https://www.startupcanarias.org) - Startup community for Canary Island
 
 ### 🛠️ Tech I use
 - Vibe Coding: React, Next.js, Tailwind CSS, Firebase  
@@ -16,12 +16,12 @@ Currently building:
 
 ### 🚀 Current interests
 - MicroSaaS, B2B tools, automation, MVP testing  
-- Market analysis using AI and data science  
-- Finance-focused data pipelines  
+- Fintech 
+- Saas products B2C  
 
 ### 📫 Let's connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/josedaviddiazdiaz/)
-- ✉️ david204.dd@gmail.com  
+- ✉️ david.diaz.diaz.yt@gmail.com  
 
 Always open to exchanging ideas, collaborating on side projects, or chatting about startups, markets, and book insights.
 
