@@ -9,7 +9,7 @@ Currently building:
 - 👨🏻‍💻 [**Startup Canarias**](https://www.startupcanarias.org) - Startup community for Canary Island
 
 ### 🛠️ Tech I use
-- Vibe Coding: React, Next.js, Tailwind CSS, Firebase  
+- React, Next.js, Tailwind CSS, Firebase  
 - Python (Pandas, Jupyter)
 - No code: Make, Airtable, FlutterFlow, Bubble.
 - Beehiiv, MailChimp
