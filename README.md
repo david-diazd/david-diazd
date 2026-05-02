@@ -1,27 +1,64 @@
-# 👋 Hey there! I'm David Díaz
+# 👋 Hey, I'm David Díaz
 
-I'm an aerospace engineer turned tech consultant, startup co-founder, and product builder. I'm passionate about creating useful digital tools — especially in the **SaaS**, **data-driven products**, and **micro-SaaS** space.
+Aerospace engineer turned tech consultant, startup co-founder, and product builder.
 
-Currently building:
+I build **SaaS products** that solve real problems, from early MVPs to scalable tools. I'm especially interested in the intersection of **technology, markets, and user behavior**.
 
-- 🧠 [**The Big Moves**](https://conclusive-ice-954785.framer.app/) – A newsletter tracking major moves in the stock market by banks and funds.
-- 📚 [**Once A Day**](https://www.linkedin.com/company/once-a-day-app) - A mobile app that improves read habits.
-- 👨🏻‍💻 [**Startup Canarias**](https://www.startupcanarias.org) - Startup community for Canary Island
+---
 
-### 🛠️ Tech I use
-- React, Next.js, Vite, Typescript, Tailwind CSS, Supabase.  
-- Python (Pandas, Jupyter).
-- No code: Make, Airtable, FlutterFlow, Bubble.
-- Beehiiv, MailChimp
+## 🚀 What I'm building
 
-### 🚀 Current interests
-- MicroSaaS, B2B tools, automation, MVP testing  
-- Fintech 
-- Saas products B2C  
+- 👨🏻‍💻 [**Startup Canarias**](https://www.startupcanarias.org)  
+  A platform to promote startups, tools, and knowledge in the Canary Islands.  
+  → Building a stronger entrepreneurial ecosystem.
 
-### 📫 Let's connect
+- 📚 [**Once A Day**](https://www.linkedin.com/company/once-a-day-app)  
+  A mobile app designed to build consistent reading habits.  
+  → Helping users learn daily and retain knowledge.
+
+---
+
+## 🧠 What I care about
+
+- Building **useful products people actually want**
+- Testing ideas fast through **MVPs and micro-SaaS**
+- Creating systems that **scale beyond me**
+
+---
+
+## 🛠️ Tech stack
+
+**Frontend**
+- React, Next.js, Vite, TypeScript, Tailwind CSS  
+
+**Backend & Data**
+- Supabase  
+- Python
+
+**No-code & Automation**
+- Make, Airtable, FlutterFlow, Bubble  
+
+**Growth & Distribution**
+- Beehiiv, Mailchimp  
+
+---
+
+## 📈 Current focus
+
+- Micro-SaaS & B2B tools  
+- Automation & lean product development  
+- Robotics tools
+
+---
+
+## 🤝 Let's connect
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/josedaviddiazdiaz/)
 - ✉️ david.diaz.diaz.yt@gmail.com  
 
-Always open to exchanging ideas, collaborating on side projects, or chatting about startups, markets, and book insights.
+---
 
+Always open to:
+- Collaborating on products  
+- Talking about startups, markets, or ideas  
+- Building something meaningful 🚀
